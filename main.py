@@ -170,6 +170,8 @@ if __name__ == '__main__':
                     ouzong.toHomePage()
                     continue
         except:
+            print('未知异常'+users[i]['name'])
+    
             continue
     toTxt(users)
     print(users)
