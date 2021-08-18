@@ -1,1 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T07:28:18.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" version="14.9.6" etag="ySJurXcQkLuQtW7GzZYL" type="github"><diagram id="g8PjUfrCPQ1FQCHfgNH1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-18T08:08:25.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="Qy1ximCIyvcGNavVFiY5" version="14.9.6" type="github">
+  <diagram id="g8PjUfrCPQ1FQCHfgNH1" name="第 1 页">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="160RcrPn6FfcxwwiCkrp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-1" target="160RcrPn6FfcxwwiCkrp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-1" value="服务内容与流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-2" target="160RcrPn6FfcxwwiCkrp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-2" value="组建环保管家项目部" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-4" target="160RcrPn6FfcxwwiCkrp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-4" value="zhiding实施方案、工作计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-6" target="160RcrPn6FfcxwwiCkrp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-6" target="160RcrPn6FfcxwwiCkrp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-6" value="开展全面排查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-8" target="160RcrPn6FfcxwwiCkrp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-8" value="园区政府层面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-10" target="160RcrPn6FfcxwwiCkrp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-10" value="园区企业排查层面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-12" target="160RcrPn6FfcxwwiCkrp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-12" value="协助完成“大排查、大曝光、大整治”，生态创建、五气共治、信访处理、污水零直排等工作" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="560" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-14" target="160RcrPn6FfcxwwiCkrp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-14" value="完成区域范围内所有固定污染源的重点管理和简化管理类排污许可证的初审工作，协助登记类排污许可证的核发工作" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="650" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-16" target="160RcrPn6FfcxwwiCkrp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-16" value="整理法规政策、手机分析环境基础资料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-18" target="160RcrPn6FfcxwwiCkrp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-18" value="排查政策制度执行情况、项目准入合规情况、总量调剂规范情况等" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-20" value="环保培训" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-24" target="160RcrPn6FfcxwwiCkrp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-24" value="环境管理、环境治理、环境应急等方面系统巡检" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <object label="" id="160RcrPn6FfcxwwiCkrp-29">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-26" target="160RcrPn6FfcxwwiCkrp-28">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="160RcrPn6FfcxwwiCkrp-29">
+          <mxGeometry x="-0.2852" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-26" target="160RcrPn6FfcxwwiCkrp-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="160RcrPn6FfcxwwiCkrp-32">
+          <mxGeometry x="-0.1926" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-26" value="整改完成" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-28" value="资料存档、完成服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-31" target="160RcrPn6FfcxwwiCkrp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-31" value="提出整改方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-34" target="160RcrPn6FfcxwwiCkrp-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-34" value="企业日常监管及整改跟踪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-36" target="160RcrPn6FfcxwwiCkrp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-36" target="160RcrPn6FfcxwwiCkrp-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-36" value="持续督导整改" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-38" target="160RcrPn6FfcxwwiCkrp-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-38" value="完成整改要求" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-40" value="持续改进、长效服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="160RcrPn6FfcxwwiCkrp-42" target="160RcrPn6FfcxwwiCkrp-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-42" value="“三同时”指导服务；&lt;br&gt;建设项目幕后监管；&lt;br&gt;违法行为核查；&lt;br&gt;指导开展清洁生产；&lt;br&gt;核查排污许可证；&lt;br&gt;建立一企一档；&lt;br&gt;协助处理环境信访投诉；&lt;br&gt;协助处理突发环境事件；&lt;br&gt;指导开展应急处置。" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="905" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="160RcrPn6FfcxwwiCkrp-44" value="环保管家工作日志；&lt;br&gt;日常巡查记录表；" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1105" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
